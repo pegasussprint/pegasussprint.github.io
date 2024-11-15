@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: /login
-
-Sitemap: https://pegasussprint.github.io/zp533/sitemap_index.txt
